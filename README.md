@@ -1,4 +1,21 @@
-### Hi there 👋
+### Meu nome é Amanda 👋
+
+Sou de Salvador/BA
+
+Sou desenvolvedor front-end
+
+Técnica de enfermagem
+
+Tenho 26 anos
+
+Estou cursando o curso de front-end no vai na web
+
+
+
+[![card](https://github-readme-stats.vercel.app/api?username=amandamour&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <!--
 **amandamour/amandamour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
